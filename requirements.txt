@@ -1,25 +1,9 @@
-asttokens @ file:///private/tmp/ipython--asttokens-20240108-5683-p1ejcm/asttokens-2.4.1
 blinker==1.7.0
-certifi @ file:///private/tmp/python-certifi-20231211-18102-76ipel/certifi-2023.11.17
 click==8.1.7
-decorator @ file:///private/tmp/ipython--decorator-20240108-5683-4gsfft/decorator-5.1.1
-executing @ file:///private/tmp/ipython--executing-20240108-5683-e7wo0u/executing-2.0.1
 Flask==2.3.3
-ipython @ file:///private/tmp/ipython-20240108-5683-x74fca/ipython-8.20.0
+Flask-DebugToolbar==0.14.1
 itsdangerous==2.1.2
-jedi @ file:///private/tmp/ipython--jedi-20240108-5683-6pkaa0/jedi-0.19.1
 Jinja2==3.1.3
 MarkupSafe==2.1.5
-matplotlib-inline @ file:///private/tmp/ipython--matplotlib-inline-20240108-5683-t7ekec/matplotlib-inline-0.1.6
-parso @ file:///private/tmp/ipython--parso-20240108-5683-7s1f23/parso-0.8.3
-pexpect @ file:///private/tmp/ipython--pexpect-20240108-5683-41mm29/pexpect-4.9.0
-prompt_toolkit @ file:///private/tmp/ipython--prompt-toolkit-20240108-5683-g5vwxm/prompt_toolkit-3.0.43
-ptyprocess @ file:///private/tmp/ipython--ptyprocess-20240108-5683-4copts/ptyprocess-0.7.0
-pure_eval @ file:///private/tmp/ipython--pure-eval-20240108-5683-fklmdk/pure_eval-0.2.2
-Pygments @ file:///private/tmp/pygments-20231121-5274-1rlyumb/pygments-2.17.2
-six==1.16.0
-stack_data @ file:///private/tmp/ipython--stack-data-20240108-5683-vfblmk/stack_data-0.6.3
-traitlets @ file:///private/tmp/ipython--traitlets-20240108-5683-yh5y36/traitlets-5.14.1
-wcwidth @ file:///private/tmp/ipython--wcwidth-20240108-5683-bopb7c/wcwidth-0.2.13
+packaging==23.2
 Werkzeug==3.0.1
-wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.1_1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=8884962178bd84039224abbf637217acecf85cd6fc7344d80a550755440e7226
