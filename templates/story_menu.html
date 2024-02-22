@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %} Story Template Menu {% endblock %}
+
+{% block content %}
+
+<label for="templates"></label>
+<select name="templates" onchange="">
+  {% for id, story in stories.entries() %}
+  <option value="{{ story['template'] }}"></option>
+  {% endfor %}
+</select>
+
+{% endblock %}
